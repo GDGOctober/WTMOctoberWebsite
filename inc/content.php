@@ -26,19 +26,7 @@
 <section id="team" class="container">
     <div class="row">
         <div class="title col-xs-12 wow fadeIn" data-wow-duration="1.5s">
-            <h1>meet our team</h1>
-            <hr>
-        </div>
-        <div class="member col-xs-12 col-md-5 wow fadeInLeft" data-wow-duration="1.5s">
-            <div class="circle-container">
-                <img src="imgs/team/yasmin.jpeg" draggable="false" title="yasmin mokhtar" alt="yasmin mokhtar photo">
-            </div>
-            <div class="member-info">
-                <p class="lead">yasmin mokhtar</p>
-                <p class="lead">founder</p>
-            </div>
-        </div>
-
+            
 <!--
         <div class="member col-xs-12 col-md-5 wow fadeInRight" data-wow-duration="1.5s">
             <div class="circle-container">
@@ -51,48 +39,9 @@
         </div>
 -->
 
-        <div class="member col-xs-12 col-md-5 wow fadeInRight " data-wow-duration="1.5s">
-            <div class="circle-container">
-                <img src="imgs/team/magy.JPG" draggable="false" title="magy rafat malak" alt="magy rafat photo">
-            </div>
-            <div class="member-info">
-                <p class="lead">Magge Rafat Malak</p>
-                <p class="lead">member</p>
-            </div>
-        </div>
+        
+        
 
-        <div class="member col-xs-12 col-md-5 wow fadeInLeft " data-wow-duration="1.5s">
-            <div class="circle-container">
-                <img src="imgs/team/lobna.jpg" draggable="false" title="lobna ibrahim" alt="lobna ibrahim photo">
-            </div>
-            <div class="member-info">
-                <p class="lead">lobna ibrahim</p>
-                <p class="lead">member</p>
-            </div>
-        </div>
-
-        <div class="member col-xs-12 col-md-5 wow fadeInRight " data-wow-duration="1.5s">
-            <div class="circle-container">
-                <img src="imgs/team/aya.jpg" draggable="false" title="aya ahmed" alt="aya ahmed photo">
-            </div>
-            <div class="member-info">
-                <p class="lead">aya ahmed</p>
-                <p class="lead">member</p>
-            </div>
-        </div>
-
-        <div class="member col-xs-12 col-md-5 wow fadeInLeft " data-wow-duration="1.5s">
-            <div class="circle-container">
-                <img src="imgs/team/heba.jpg" draggable="false" title="heba youssef" alt="heba youssef photo">
-            </div>
-            <div class="member-info">
-                <p class="lead">heba youssef</p>
-                <p class="lead">member</p>
-            </div>
-        </div>
-
-
-    </div>
 </section>
 <!--End of Our Team Section-->
 
@@ -189,7 +138,9 @@
                             </span>
                         </div>
                         <div class="title">
-                            <a class="eventName" href="#" target="_blank" draggable="false"><h2>i/o 17 event</h2></a>
+                            <a class="eventName" href="https://www.meetup.com/GDGOctober/events/240754713/" target="_blank" draggable="false"><h2>i/o 17 event</h2></a>
+                            <a class="eventName" href="https://www.meetup.com/GDGOctober/events/240754713/" target="_blank" draggable="false"><h4>Event Meetup</h4></a>
+                            
                             <span class="place">
                                 <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
                                     akhbar el youm academy, 6th october/Egypt</a>
@@ -207,14 +158,15 @@ Google Developer Group and women techmakers 6th October city " GDG and WTM 6th O
                     
                     <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.8s">
                         <div class="imgBox">
-                            <img src="imgs/event/16.jpg" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="I/O 2017 Event in 6th October">
+                            <img src="imgs/event/16.jpg" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="GDD India 6 October">
                             <span class="time">
                                 <span class="fa fa-calendar-check-o"></span>
                                 mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
                             </span>
                         </div>
                         <div class="title">
-                            <a class="eventName" href="#" target="_blank" draggable="false"><h2>GDD India 6 October</h2></a>
+                            <a class="eventName" href="https://www.meetup.com/GDGOctober/events/245504730/" target="_blank" draggable="false"><h2>GDD India 6 October</h2></a>
+                            <a class="eventName" href="https://www.meetup.com/GDGOctober/events/245504730/" target="_blank" draggable="false"><h4>Event Meetup</h4> </a>
                             <span class="place">
                                 <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
                                     akhbar el youm academy, 6th october/Egypt</a>
@@ -224,7 +176,7 @@ Google Developer Days (GDD) are global events showcasing the latest developer pr
                         </div>
 
                         <div class="hashtag">
-                            <a href="https://www.facebook.com/search/top/?q=%23io17" draggable="false" target="_blank"><span>#GDD</span></a>
+                            <a href="https://www.facebook.com/hashtag/gddindia2018" draggable="false" target="_blank"><span>#gddindia2018</span></a>
                             <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
                             <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
                         </div>
@@ -237,14 +189,16 @@ Google Developer Days (GDD) are global events showcasing the latest developer pr
 
                     <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.8s">
                         <div class="imgBox">
-                            <img src="imgs/event/17.jpg" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="I/O 2017 Event in 6th October">
+                            <img src="imgs/event/17.jpg" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="Mobile web study jam 2018">
                             <span class="time">
                                 <span class="fa fa-calendar-check-o"></span>
                                 mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
                             </span>
                         </div>
                         <div class="title">
-                            <a class="eventName" href="#" target="_blank" draggable="false"><h2>Mobile web study jam 2018</h2></a>
+                            <a class="eventName" href="https://www.meetup.com/GDGOctober/events/247089028/" target="_blank" draggable="false"><h2>Mobile web study jam 2018</h2></a>
+                            <a class="eventName" href="https://www.meetup.com/GDGOctober/events/247089028/" target="_blank" draggable="false"><h4>Event Meetup</h4></a>
+                            
                             <span class="place">
                                 <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
                                     Hashtags Coworking Space, 6th october/Egypt</a>
@@ -255,7 +209,7 @@ Fairly Quick : approximately 3-4 hours of study material , followed by 90 minute
                         </div>
 
                         <div class="hashtag">
-                            <!--<a href="https://www.facebook.com/search/top/?q=%23io17" draggable="false" target="_blank"><span>#GDD</span></a>-->
+                           <a href="https://twitter.com/search?q=mobilestudyjam" target="_blank">#MobileStudyJam</a>
                             <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
                             <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
                         </div>
@@ -263,14 +217,16 @@ Fairly Quick : approximately 3-4 hours of study material , followed by 90 minute
 
                     <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.8s">
                         <div class="imgBox">
-                            <img src="imgs/event/18.png" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="I/O 2017 Event in 6th October">
+                            <img src="imgs/event/18.png" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="Cloud study jam 2018">
                             <span class="time">
                                 <span class="fa fa-calendar-check-o"></span>
                                 mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
                             </span>
                         </div>
                         <div class="title">
-                            <a class="eventName" href="#" target="_blank" draggable="false"><h2>Cloud study jam 2018</h2></a>
+                            <a class="eventName" href="https://www.meetup.com/GDGOctober/events/247932663/" target="_blank" draggable="false"><h2>Cloud study jam 2018</h2></a>
+                               <a class="eventName" href="https://www.meetup.com/GDGOctober/events/247932663/" target="_blank" draggable="false"><h4>Event Meetup</h4></a>
+                         
                             <span class="place">
                                 <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
                                     Hashtags Coworking Space, 6th october/Egypt</a>
@@ -280,12 +236,67 @@ Fairly Quick : approximately 3-4 hours of study material , followed by 90 minute
                         </div>
 
                         <div class="hashtag">
-                            <!--<a href="https://www.facebook.com/search/top/?q=%23io17" draggable="false" target="_blank"><span>#GDD</span></a>-->
+<a href="https://twitter.com/search?q=cloudstudyjam" target="_blank">#CloudStudyJam</a>                            <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
+                            <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
+                        </div>
+                    </div>
+<div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.6s">
+                        <div class="imgBox">
+                            <img src="imgs/event/iwd.JPG" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="IWD 18 event">
+                            <span class="time">
+                                <span class="fa fa-calendar-check-o"></span>
+                                mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
+                            </span>
+                        </div>
+                        <div class="title">
+                            <a class="eventName" href="https://www.meetup.com/GDGOctober/events/247253192/" target="_blank" draggable="false"><h2>IWD 18 event</h2></a>
+                             <a class="eventName" href="https://www.meetup.com/GDGOctober/events/247253192/" target="_blank" draggable="false"><h4>Event Metup</h4></a>
+                          
+                            <span class="place">
+                                
+                                <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
+                                    ITI , 6th october/Egypt</a>
+                            </span>
+                            <p class="lead">
+International Women's Day (March 8) is a global day celebrating the social, economic, cultural and political achievements of women. International Women's Day (IWD) has occurred for well over a century. </p>
+                        </div>
+
+                        <div class="hashtag">
+                            <a href="https://www.facebook.com/events/755011268038504/" draggable="false" target="_blank"><span>#IWD</span></a>
                             <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
                             <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
                         </div>
                     </div>
+            
+            <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.6s">
+                        <div class="imgBox">
+                            <img src="imgs/event/tf.PNG" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="TensorFlow DevSummit 2018 Viewing Party 6 October">
+                            <span class="time">
+                                <span class="fa fa-calendar-check-o"></span>
+                                mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
+                            </span>
+                        </div>
+                        <div class="title">
+                            <a class="eventName" href="https://www.meetup.com/GDGOctober/events/248404827/" target="_blank" draggable="false"><h2>TensorFlow DevSummit 18 </h2></a>
+                             <a class="eventName" href="https://www.meetup.com/GDGOctober/events/248404827/" target="_blank" draggable="false"><h4>Event Meetup</h4></a>
+                            <span class="place">
+                                <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
+                                    excellence company , 6th october/Egypt</a>
+                            </span>
+                           
+                            <p class="lead">
+The TensorFlow DevSummit is a day that 
+Targeting the ML users to meet and discuss the lastes updates in Machine learn </p>
+                        </div>
 
+                        <div class="hashtag">
+                            <a href="https://www.facebook.com/GDGOctober/photos/rpp.540053092707163/1747158211996639/?type=3&theater" draggable="false" target="_blank"><span>#TensorFlow</span></a>
+                            <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
+                            <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
+                        </div>
+                    </div>
+            
+            
                 </div>
             </div>
 
@@ -433,7 +444,7 @@ Fairly Quick : approximately 3-4 hours of study material , followed by 90 minute
 
             <div class="sponser col-xs-12 col-md-6 wow fadeInLeft " data-wow-duration="1.5s">
                 <div class="img-container">
-                    <img src="../imgs/sponsers/v307.png" class="img-responsive" draggable="false" alt="Co-Working Space Villa 307 Logo" title="Co-Working Space Villa 307">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" class="img-responsive" draggable="false" alt="Google" title="Google">
                 </div>
             </div>
 
